@@ -1,2 +1,2 @@
-# AuraGuide
-AuraGuide is a fun helper bot that turns big questions into easy answers! Get quick, friendly tips to help you solve problems, learn new skills, and crush your daily goals.
+# SmartOutfit
+Have you ever looked at your closet and thought, "I have nothing to wear!" or "Does this shirt match these trousers? This app is like a magical fashion buddy in your pocket! You just snap a quick photo of your favorite clothes, and the app instantly mixes and matches them for you. It helps you pick the perfect outfit for school, a birthday party, or a day at the park in just two seconds—making morning routine arguments a thing of the past!
